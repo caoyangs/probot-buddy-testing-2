@@ -4,4 +4,4 @@ setTimeout(() => {
   } else {
     process.exit(1);
   }
-}, 15000);
+}, 5000);
