@@ -4,4 +4,3 @@ enabled_features:
   - semantic-pull-requests
   - bot-pr-merge
   - merge-queue
-mergeUser: test
